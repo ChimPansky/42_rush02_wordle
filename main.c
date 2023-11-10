@@ -8,7 +8,7 @@
 #endif
 
 #define ERR_INVALID_WORD 2
-#define ERR_MALLOC 2
+#define ERR_MALLOC 3
 
 typedef struct s_database
 {
